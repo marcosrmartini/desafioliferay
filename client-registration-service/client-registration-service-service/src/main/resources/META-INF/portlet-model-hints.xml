@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+
+<model-hints>
+	<model name="com.liveray.client.service.model.Cliente">
+		<field name="clienteId" type="long" />
+		<field name="planoId" type="long" />
+		<field name="nome" type="String" />
+		<field name="rg" type="String" />
+		<field name="nomeMae" type="String" />
+		<field name="nomePai" type="String" />
+		<field name="orgaoExpedidor" type="String" />
+		<field name="estado" type="String" />
+		<field name="dataExpedicao" type="Date" />
+	</model>
+</model-hints>

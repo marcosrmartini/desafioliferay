@@ -1,0 +1,10 @@
+Bundle-Name: client-registration-service-api
+Bundle-SymbolicName: com.liveray.client.service.api
+Bundle-Version: 1.0.0
+Export-Package:\
+	com.liveray.client.service.exception,\
+	com.liveray.client.service.model,\
+	com.liveray.client.service.service,\
+	com.liveray.client.service.service.persistence
+-check: EXPORTS
+-includeresource: META-INF/service.xml=../client-registration-service-service/service.xml

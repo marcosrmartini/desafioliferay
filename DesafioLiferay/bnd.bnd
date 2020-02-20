@@ -1,0 +1,4 @@
+Bundle-Name: DesafioLiferay
+Bundle-SymbolicName: br.com.mmartini
+Bundle-Version: 1.0.0
+Export-Package: br.com.mmartini.constants
